@@ -1,0 +1,12 @@
+/target/
+/bin/
+work
+.settings
+.classpath
+.project
+.tomcatplugin
+.class
+.#webclasspath
+.jar
+.war
+.bak
