@@ -37,7 +37,6 @@
 	            'Ext.app.Portlet',
 	            'Ext.app.PortalDropZone'
 	        ]);
-	     	// alert("<spring:message code='g_operateFailure' />");
 	    </script>
 	</head>
 	<body>

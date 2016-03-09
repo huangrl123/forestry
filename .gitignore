@@ -1,5 +1,6 @@
 /target/
 /bin/
+/classes/
 work
 .settings
 .classpath
